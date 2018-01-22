@@ -1,0 +1,6 @@
+D:\RR\popraw\136104\136104\bin\Debug\136104.exe.config
+D:\RR\popraw\136104\136104\obj\Debug\136104.csprojResolveAssemblyReference.cache
+D:\RR\popraw\136104\136104\bin\Debug\136104.exe
+D:\RR\popraw\136104\136104\bin\Debug\136104.pdb
+D:\RR\popraw\136104\136104\obj\Debug\136104.exe
+D:\RR\popraw\136104\136104\obj\Debug\136104.pdb
